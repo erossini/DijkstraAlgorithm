@@ -1,0 +1,17 @@
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\FluentAssertions.Core.dll
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\FluentAssertions.dll
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\FluentAssertions.pdb
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\FluentAssertions.xml
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\FluentAssertions.Core.pdb
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\FluentAssertions.Core.xml
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\DijkstraAlgorithm.dll
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\DijkstraAlgorithm.pdb
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Project\DijkstraAlgorithm\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Project\DijkstraAlgorithm\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Project\DijkstraAlgorithm\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

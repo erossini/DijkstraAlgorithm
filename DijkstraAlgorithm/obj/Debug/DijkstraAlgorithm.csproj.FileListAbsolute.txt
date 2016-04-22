@@ -1,0 +1,4 @@
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary2\bin\Debug\DijkstraAlgorithm.dll
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary2\bin\Debug\DijkstraAlgorithm.pdb
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary2\obj\Debug\DijkstraAlgorithm.dll
+c:\users\enrico.rossini\documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary2\obj\Debug\DijkstraAlgorithm.pdb

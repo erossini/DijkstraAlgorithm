@@ -1,0 +1,1 @@
+C:\Users\Enrico.Rossini\Documents\Visual Studio 2015\Projects\ClassLibrary1\DijkstraAlgorithm.Portable\obj\Debug\DijkstraAlgorithm.Portable.csprojResolveAssemblyReference.cache
